@@ -2,8 +2,7 @@
 Emotion Check with DeepLearning
 
 # Setting
-keras<br>
-Tensorflow<br>
+keras,Tensorflow (pip install tensorflow keras<br>
 numpy<br>
 cv2 (pip install opencv-python)<br>
 haarcascade
