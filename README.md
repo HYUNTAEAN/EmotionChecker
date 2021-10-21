@@ -5,8 +5,14 @@ Emotion Check with DeepLearning
 keras
 Tensorflow
 numpy
-cv2
+cv2 (pip install opencv-python)
 haarcascade
+
+pandas 0.25버전 충돌시 -> pip3 install --upgrade pandas==0.24.2 pandas-gbq
+
+# Code
+
+![code](https://user-images.githubusercontent.com/88410343/138286065-e7bb710e-2d60-4d83-ac40-11b7ca465ad4.png)
 
 # Result
 
