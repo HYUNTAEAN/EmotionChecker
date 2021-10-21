@@ -2,10 +2,10 @@
 Emotion Check with DeepLearning
 
 # Setting
-keras
-Tensorflow
-numpy
-cv2 (pip install opencv-python)
+keras<br>
+Tensorflow<br>
+numpy<br>
+cv2 (pip install opencv-python)<br>
 haarcascade
 
 pandas 0.25버전 충돌시 -> pip3 install --upgrade pandas==0.24.2 pandas-gbq
