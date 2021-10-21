@@ -1,5 +1,5 @@
 # EmotionChecker - anaconda Jupyter Notebook
-Emotion Check 
+Emotion Check with DeepLearning
 
 # Setting
 keras
