@@ -9,5 +9,4 @@ haarcascade
 
 # Result
 
-![EmotionChecker](https://user-images.githubusercontent.com/88410343/138280240-1b127ea3-e0b3-4527-adc8-c17699ca5983.png)
-
+![EmotionChecker](https://user-images.githubusercontent.com/88410343/138281654-463b7145-c3ce-4691-a337-0141389f40c8.png)
